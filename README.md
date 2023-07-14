@@ -1,9 +1,17 @@
-# Welcome to my page!
+<h2 align="center">:wave: Hello, my name is Daiki :wave:</h2>
 
-<p align="center">
+<div align="center">
+  <h3>:globe_with_meridians: Connect with Me :globe_with_meridians:</h3>
   <a href="https://www.linkedin.com/in/daikianjiki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:daikianjiki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail Badge"></a>
-</p>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>🧑🏽‍💻 About Me 🧑🏽‍💻</h3>
+  <p>I'll eventually write something in here... </p>
+</div>
 
 <hr>
 
@@ -63,7 +71,7 @@
 <hr>
 
 <div align="center">
-  <h3>🔥My Stats🔥</h3>
+  <h3>🔥 My Stats 🔥</h3>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=daikianjiki&theme=dark">
   </a>
