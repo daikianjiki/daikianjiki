@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/daikianjiki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <table align="center">
+  <h3 align="center">🛠 My Stack & Tools 🛠</h3>
   <thead>
     <th>Frameworks/Libraries</th>
     <th colspan="2">Languages</th>
@@ -54,5 +55,12 @@
     </td>
   </tbody>
 </table>
+
+<div align="center">
+  <h3>🔥My Stats🔥</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=daikianjiki&theme=dark">
+  </a>
+</div>
 
 
