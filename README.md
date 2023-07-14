@@ -1,7 +1,11 @@
 # Welcome to my page!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daikianjiki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/daikianjiki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="mailto:daikianjiki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail Badge"></a>
+</p>
+
+<hr>
 
 <table align="center">
   <h3 align="center">🛠 My Stack & Tools 🛠</h3>
@@ -55,6 +59,8 @@
     </td>
   </tbody>
 </table>
+
+<hr>
 
 <div align="center">
   <h3>🔥My Stats🔥</h3>
