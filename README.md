@@ -62,5 +62,8 @@
     <img src="https://streak-stats.demolab.com/?user=daikianjiki&theme=dark">
   </a>
 </div>
-
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daikianjiki&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daikianjiki&theme=tokyonight">
+</div>
 
