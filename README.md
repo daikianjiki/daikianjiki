@@ -10,7 +10,9 @@
 
 <div align="center">
   <h3>🧑🏽‍💻 About Me 🧑🏽‍💻</h3>
-  <p>I'll eventually write something in here... </p>
+  <p>I am originally from Japan.</p>
+  <p>I live in Las Vegas.</p>
+  <p>I am a fullstack software developer at Revature.</p>
 </div>
 
 <hr>
