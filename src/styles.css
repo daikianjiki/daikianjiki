@@ -157,4 +157,13 @@ html:after, html:before {
         background-size: cover;
         background-position: top left;
     }
+    table thead {
+        display: none;
+    }
+    table tbody {
+        display: flex;
+        flex-direction: column;
+        align-items: center;;
+    }
+
 }

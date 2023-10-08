@@ -16,12 +16,6 @@ footer {
     margin-top: auto; /* Push the footer to the bottom */
 }
 
-.contact-list {
-    list-style-type: none;
-    padding: 0;
-}
-
-.contact-list a {
-    padding: 10px;
-    display: inline-block;
+footer div a {
+    margin: 10px;
 }
