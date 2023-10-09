@@ -1,5 +1,9 @@
 header {
-    background-color: #95AFBA;
-    color: #E2F893;
+    background-color: #BDC4A7;
+    color: #3F7CAC;
     text-align: center;
+}
+
+.content-wrap {
+    padding-bottom: 0px;
 }

@@ -7,10 +7,11 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HomePageComponent } from './pages/home-page/home-page.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
-import { AboutPageComponent } from './pages/about-page/about-page.component';
-import { ContactPageComponent } from './pages/contact-page/contact-page.component';
 import { ProjectsPageComponent } from './pages/projects-page/projects-page.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { TechstacksPageComponent } from './pages/techstacks-page/techstacks-page.component';
+import { EducationPageComponent } from './pages/education-page/education-page.component';
+import { WorkhistoryComponent } from './pages/workhistory/workhistory.component';
 
 @NgModule({
   declarations: [
@@ -19,9 +20,10 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     FooterComponent,
     HomePageComponent,
     NavbarComponent,
-    AboutPageComponent,
-    ContactPageComponent,
     ProjectsPageComponent,
+    TechstacksPageComponent,
+    EducationPageComponent,
+    WorkhistoryComponent,
   ],
   imports: [
     BrowserModule,
