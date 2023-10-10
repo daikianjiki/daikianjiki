@@ -67,6 +67,12 @@ h2 {
     font-size: 40px;
 }
 
+hr {
+    height: 1px;
+    background-color: #D5E1A3;
+    border: none;
+}
+
 h1, h2 {
     font-family: 'Major Mono Display', monospace;
     margin: 0;
