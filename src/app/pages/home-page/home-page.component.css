@@ -15,8 +15,7 @@ p {
 }
 
 .about {
-    max-width: 800px;
-    padding-top: 0;
+    background-color: #3f7dac2d;
 }
 
 @media screen and (max-width:749px) {

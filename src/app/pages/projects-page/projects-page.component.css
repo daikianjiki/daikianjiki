@@ -1,6 +1,3 @@
-div {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+.project-display {
+    background-color: #3f7dac2d;
 }

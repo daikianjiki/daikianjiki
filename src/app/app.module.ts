@@ -12,6 +12,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { TechstacksPageComponent } from './pages/techstacks-page/techstacks-page.component';
 import { EducationPageComponent } from './pages/education-page/education-page.component';
 import { WorkhistoryComponent } from './pages/workhistory/workhistory.component';
+import { RevlearnComponent } from './components/revlearn/revlearn.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { WorkhistoryComponent } from './pages/workhistory/workhistory.component'
     TechstacksPageComponent,
     EducationPageComponent,
     WorkhistoryComponent,
+    RevlearnComponent,
   ],
   imports: [
     BrowserModule,

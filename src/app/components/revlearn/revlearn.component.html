@@ -1,0 +1,77 @@
+<h2 class="project-content-title">RevLearn</h2>
+<div class="iframe-container">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7057769551790292992?compact=1"
+        height="399" width="710" frameborder="" allowfullscreen="" title="RevLearn" scrolling="no"></iframe>
+</div>
+<div class="display-buttons">
+    <a (click)="displayAbout()">
+        <fa-icon [icon]="about" size="2x"></fa-icon>
+    </a>
+    <a (click)="displayJourney()">
+        <fa-icon [icon]="journey" size="2x"></fa-icon>
+    </a>
+    <a (click)="displayRole()">
+        <fa-icon [icon]="role" size="2x"></fa-icon>
+    </a>
+    <a (click)="displayStacks()">
+        <fa-icon [icon]="stacks" size="2x"></fa-icon>
+    </a>
+</div>
+<div *ngIf="showAbout" class="project-content">
+    <h2 class="project-content-title">About</h2>
+    <p>RevLearn is an educational platform that empowers students to explore, learn, and connect. Here's what you
+        can do
+        on our platform:</p>
+    <ul>
+        <li>Register and log in as a student.</li>
+        <li>Enroll in courses tailored to your interests.</li>
+        <li>Take assigned quizzes to test your knowledge.</li>
+        <li>Keep track of your grades with the integrated gradebook.</li>
+        <li>Engage in meaningful discussions with your peers through our forum.</li>
+        <li>Edit your personal information to keep your profile up to date.</li>
+        <li>Conveniently pay for your classes from your account page.</li>
+    </ul>
+</div>
+<div *ngIf="showJourney" class="project-content">
+    <h2 class="project-content-title">Journey</h2>
+    <p>Our journey with RevLearn was a collaborative effort involving a team of five.
+        We began with discussions about the Entity Relationship Diagram (ERD) to map out
+        how different entities would connect. We then created wireframes to visualize the final product.
+        Along the way, we made tough decisions to refine the project scope. Our project was completed
+        in just two weeks. To stay organized, we used GitHub Projects to manage our progress.</p>
+</div>
+<div *ngIf="showRole" class="project-content">
+    <h2 class="project-content-title">About My Role</h2>
+    <p>During my involvement in the RevLearn project, I took on several key responsibilities:</p>
+    <ul>
+        <li>Implemented the Quiz entity's layers, including the model, controller, service, and repository layers,
+            using
+            Spring Boot, Spring ORM, and Spring MVC.</li>
+        <li>Efficiently utilized GitHub Projects as a task management tool, ensuring effective task assignment and
+            tracking for the development team. We conducted daily standup meetings to discuss progress, identify
+            areas
+            for improvement, and set goals.</li>
+        <li>Developed Angular components and methods to handle requests to the database, enabling seamless
+            persistence
+            of quizzes for each course.</li>
+    </ul>
+</div>
+<div *ngIf="showStacks" class="project-content">
+    <h2 class="project-content-title">Tech Stacks Used</h2>
+    <div class="image-container">
+        <div class="image-row">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original-wordmark.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg">
+        </div>
+        <div class="image-row">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/materialui/materialui-original.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain-wordmark.svg">
+            <img src="https://raw.githubusercontent.com/jessestuart/js-devicon/e2785714ba333e03e9bb4d03a9ae85f60ba424ca/icons/github/github-original-wordmark.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+        </div>
+    </div>
+</div>
