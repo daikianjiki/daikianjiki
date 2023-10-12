@@ -4,6 +4,7 @@
   <h3>:globe_with_meridians: Connect with Me :globe_with_meridians:</h3>
   <a href="https://www.linkedin.com/in/daikianjiki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:daikianjiki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail Badge"></a>
+  <a href="https://daikianjiki.github.io/daikianjiki"><img src="https://img.shields.io/badge/Website-green6?style=for-the-badge" alt=Website Badge"></a>
 </div>
 
 <hr>
