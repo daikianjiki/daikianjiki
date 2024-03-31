@@ -12,8 +12,8 @@
 <div align="center">
   <h3>🧑🏽‍💻 About Me 🧑🏽‍💻</h3>
   <p>I am originally from Japan.</p>
-  <p>I live in Las Vegas.</p>
-  <p>I am a fullstack software developer at Revature.</p>
+  <p>I live in Tampa, FL.</p>
+  <p>I am a fullstack software developer!</p>
 </div>
 
 <hr>
